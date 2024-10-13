@@ -1,1 +1,10 @@
-Yesdwwdwdwdw
+### ARP scan: This scan uses ARP requests to discover live hosts
+
+> Address Resolution Protocol (ARP) is responsible for finding the MAC (hardware) address related to a specific IP address. It works by broadcasting an ARP query, "Who has this IP address? Tell me." And the response is of the form, "The IP address is at this MAC address.”
+> 
+
+### ICMP scan: This scan uses ICMP requests to identify live hosts
+
+### TCP/UDP ping scan: This scan sends packets to TCP ports and UDP ports to determine live hosts.
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f6ef86c-88c7-43f4-a01b-e1c61109e498/e03ae865-c703-40b6-bf45-90f3da321e16/image.png)
